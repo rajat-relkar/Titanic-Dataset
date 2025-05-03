@@ -78,7 +78,7 @@ The script performs the following steps:
 
 - **Confusion Matrix**:
 
-  ![](Images/confusion_matrix.png)
+  ![](https://github.com/user-attachments/assets/213150e6-1d26-495e-8fa1-e939d931ad89)
   
   - True Negatives: 144 (correctly predicted not survived).
 
