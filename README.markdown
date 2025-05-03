@@ -77,10 +77,9 @@ The script performs the following steps:
 - **Accuracy**: 80.22%
 
 - **Confusion Matrix**:
-  ```
-  [[144  13]
-   [ 40  71]]
-  ```
+
+  ![](Images/confusion_matrix.png)
+  
   - True Negatives: 144 (correctly predicted not survived).
 
   - False Positives: 13 (incorrectly predicted survived).
